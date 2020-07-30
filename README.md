@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name is Eder Rosa Sato, from Curitiba, Brazil (🇧🇷). I'm webdesigner and this year, after months of study, i started in the dev front area. 
+I like to watch football (🏈), play a some of basketball (🏀), listen musics and podcasts (🎶), 
+play my guitar or singing (🎸), read my books (📚) and learning new things (💡)
 <!--
 **edersato/edersato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
