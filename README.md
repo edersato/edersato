@@ -3,7 +3,7 @@
 A quick review:
 
 - Front End Developer / WebDesigner  👨🏻‍💻
-- Studing System Development in Positivo University 🎓
+- Studing System Development in Estácio University 🎓
 - Curitiba, Brazil 📍
 ---
 
