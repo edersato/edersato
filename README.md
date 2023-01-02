@@ -2,7 +2,7 @@
 
 A quick review:
 
-- Front End Developer / WebDesigner  👨🏻‍💻
+- Front End Developer  👨🏻‍💻
 - Studing System Development in Estácio University 🎓
 - Curitiba, Brazil 📍
 ---
