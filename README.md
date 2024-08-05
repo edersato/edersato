@@ -15,8 +15,7 @@ A quick review:
 
 ### Back-End Knowledge
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="C Logo" width="30" height="30"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-plain.svg" alt="Node Logo" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="C Logo" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-plain.svg" alt="Node Logo" width="30" height="30">
 
 ### Image and Prototyping
 
