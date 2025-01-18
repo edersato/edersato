@@ -2,7 +2,7 @@
 
 A quick review:
 
-- Front End Developer  👨🏻‍💻
+- FullStack Developer  👨🏻‍💻
 - Graduate System Developer 🎓
 - Curitiba, Brazil 📍
 ---
